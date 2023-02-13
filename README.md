@@ -1,16 +1,18 @@
-### Hi there 👋
+![github readme](https://user-images.githubusercontent.com/68554241/218471505-ecaf1270-bbde-4060-b1e3-edb9f2b8d2a6.png)
 
-<!--
-**ZapOS-AOSP/ZapOS-AOSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to ZAP OS | Get Zapped!
 
-Here are some ideas to get you started:
+## So wanna ZAP your phone? Go ahead and follow the steps to get started :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [**Manifest**](https://github.com/ZapOS-AOSP/android_manifest)
+
+Encountered any error?
+
+* [**Common Errors**](https://github.com/ZapOS-AOSP/common_errors)
+
+Or For help Join Android Dev group at Telegram...
+
+## THANKS by dreAd1811
+
+### Contact me on telegram - @dreAd1811
+ <p>If you have a better logo and boot animation , feel free to contact me</p>
